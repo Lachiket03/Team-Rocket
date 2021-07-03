@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <title>Crypto Buzzer-Home</title>
+    </head>
+    <body>
+        
+        <section class="index">
+            <!--Hero's spot-->
+            <div id="hero">
+             <video
+             loop
+             muted
+             autoplay
+             preload="auto"
+             >
+                     <source src="/logo and hero spot/WhatsApp Video 2021-06-28 at 21.55.45.mp4" type="video/mp4">
+                     Your browser does not support the video tag
+             </video>
+
+            </div>
+            <div class="container">
+                <header>
+                    <img src="/logo and hero spot/cb logo.png"  width=200 height="70" alt="">
+
+                    <ul>
+                   
+                        <li><a href="/index.html" class="active">Home</a></li>
+                        <li><a href="/About.html">Model</a></li>
+                        <li><a href="/Contact.html">Trends</a></li>
+                        <li><a href="/Team.html">Profile</a></li>
+              
+                </ul>
+                </header>
+
+                
+               <div class="content">
+                 <h2>Welcome to CryptoBuzzer</h2>
+                 <h3>Heya Crypto Enthusiasts!</h3>
+                 <p>
+                     In case you're wondering,CryptoBuzzer is a website aimed at helping people interested in investing in the cryptocurrencies by predicting the future of various cryptocurrencies upto 6 months ahead, that too without the intervention of third party!
+
+                     Sign Up before it's too late because, THE DOGE FATHER'S TWEET MAY BE JUST AROUND THE CORNER!!
+                 </p>
+                 
+                 <p>Already have an account then Login</p>
+                 
+               </div>
+
+               <div class="login">
+                   <ul>
+                       <li><a href="/Login.html">Login</a></li>
+                       <li><a href="/Signup.html">SignUp</a></li>
+                   </ul>
+               </div>
+
+               <div class="sci">
+                   <li><a href="#"><img src="/logo and hero spot/fb.png" width="50" alt=""></a></li>
+                   <li><a href="#"><img src="/logo and hero spot/twitter.png" width="50"  alt=""></a></li>
+                   <li><a href="#"><img src="/logo and hero spot/ig.png" width="50" alt=""></a></li>
+               </div>
+
+               <div class="imgBx">
+                   <img src="/logo and hero spot/man.png" height="400" alt="">
+               </div>
+              <div class="imgBox">
+                  <img src="/logo and hero spot/log.png" alt="">
+              </div>
+                
+            </div>
+
+        </section>
+        
+    </body>
+    </html>
+    
