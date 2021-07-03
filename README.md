@@ -27,7 +27,7 @@ Step 3 :
 
 Step 4 : 
 
-    To run the python the code (the linear regression and web scraping) backend side of the code i.e. download the regression.py and run in IDE of your choice and also the data .csv so new data can be added.
+  To run the python the code (the linear regression and web scraping) backend side of the code i.e. download the regression.py and run in IDE of your choice and also the data .csv so new data can be added.
 
 Step 5 :
 
