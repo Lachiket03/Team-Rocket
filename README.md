@@ -25,6 +25,21 @@ Step 2 :
 
 Step 3 :
 
+   1: Index.html
+Contains and loads all the files, this page is the home page and has all the relevant information and is the heart of the entire idea,
+it constitutes all the tutorials and all important links to be directed.
+2: Normalize.css
+It is a library the removes margin from the webpage and thus it gives a finishing touch to the web page.
+3: Style.css
+This file contains the commands that makes the home page look beautiful.
+4: Style2.css
+This file is linked to the login page and thus has all the editing contents concerned with the login page.
+5: Login. html
+This file takes up the login credentials of the user.
+6: SignUp.html
+This file approves the level on which the user is and thus uses a slider for the same and then helps in creaating the profile of the user.
+Work is still pending for this particular page as the slider is a bit complex having the design of a bar graph.
+
 Step 4 : 
 
   To run the python the code (the linear regression and web scraping) backend side of the code i.e. download the regression.py and run in IDE of your choice and also the data .csv so new data can be added.
